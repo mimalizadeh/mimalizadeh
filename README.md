@@ -26,7 +26,7 @@ Currently expanding my knowledge and hands-on experience in AI, Large Language M
 
 ## 📫 Contact 
 - mimalizadeh.py@gmail.com
-- [Linkedin](https://youtube.com/@mimcodes)
+- [Linkedin](https://www.linkedin.com/in/mimalizadeh)
 
 ### My Youtube channels Links:
 - [Persian](https://youtube.com/@mimcodes)
